@@ -60,7 +60,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
-
+<!--
 ## �� GitHub Statistics
 
 <p align="center">
@@ -83,6 +83,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=FindNoName&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
+-->
 ---
 
 ## 📈 Activity Graph
